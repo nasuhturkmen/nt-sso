@@ -4,13 +4,13 @@
 </a>
 </p>
 
-<p align="center"><code>open-admin</code> is administrative interface builder for laravel which can help you build CRUD backends just with few lines of code.</p>
+<p align="center"><code>nt-sso</code> nt-sso is an administrative interface builder for Laravel that can easily help with single sign on login processes.</p>
 
 <p align="center">
-<a href="https://open-admin.org">Homepage</a> |
-<a href="https://open-admin.org/docs">Documentation</a> |
-<a href="https://github.com/open-admin-org/open-admin">Download</a> |
-<a href="https://github.com/open-admin-org?tab=repositories">Extensions</a>
+<a href="https://nasuhturkmen.com">Homepage</a> |
+<a href="https://nasuhturkmen.com/packages/nt-sso/docs/">Documentation</a> |
+<a href="https://github.com/nasuhturkmen/nt-sso">Download</a> |
+<a href="https://github.com/nasuhturkmen?tab=repositories">Extensions</a>
 </p>
 
 <p align="center">
