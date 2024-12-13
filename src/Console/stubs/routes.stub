@@ -1,0 +1,16 @@
+<?php
+
+use Illuminate\Routing\Router;
+
+Admin::routes();
+
+Route::group([
+    'prefix'        => config('sso.route.prefix'),
+    'namespace'     => config('sso.route.namespace'),
+    'middleware'    => config('sso.route.middleware'),
+    'as'            => config('sso.route.prefix') . '.',
+], function (Router $router) {
+
+    $router->get('/', 'HomeController@index')->name('home');
+
+});
