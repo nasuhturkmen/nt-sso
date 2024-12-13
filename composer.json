@@ -1,0 +1,56 @@
+{
+    "name": "nasuhturkmen/nt-sso",
+    "description": "nt-sso. Open source Laravel Nasuh Turkmen SSO Login.",
+    "type": "library",
+    "keywords": ["laravel", "sso", "auth", "oauth", "nt-sso","nasuhturkmen"],
+    "homepage": "https://github.com/nasuhturkmen/nt-sso",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nasuh Yunus Türkmen",
+            "email": "info@nasuhturkmen.com"
+        }
+    ],
+    "require": {
+        "php": "~7.3|~8.0",
+        "symfony/dom-crawler": "~3.1|~4.0|~5.0",
+        "laravel/framework": ">=7.0",
+        "doctrine/dbal": "2.*|3.*"
+    },
+    "require-dev": {
+        "laravel/laravel": ">=8.0",
+        "fzaninotto/faker": "~1.4",
+        "intervention/image": "~2.3",
+        "laravel/browser-kit-testing": "^6.0",
+        "spatie/phpunit-watcher": "^1.22.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "NasuhTurkmen\\Admin\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "autoload-dev": {},
+    "scripts": {
+        "test": "./vendor/bin/phpunit"
+    },
+    "suggest": {
+        "intervention/image": "Required to handling and manipulation upload images (~2.3).",
+        "spatie/eloquent-sortable": "Required to built orderable gird."
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "NasuhTurkmen\\Admin\\AdminServiceProvider"
+            ],
+            "aliases": {
+                "Admin": "NasuhTurkmen\\Admin\\Facades\\Admin"
+            }
+        }
+    },
+    "config": {
+        "process-timeout": 0
+    }
+}
