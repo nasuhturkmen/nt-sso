@@ -17,13 +17,13 @@
     <a href="https://styleci.io/repos/365864806">
         <img src="https://styleci.io/repos/365864806/shield" alt="StyleCI">
     </a>
-    <a href="https://packagist.org/packages/open-admin-org/open-admin">
+    <a href="https://packagist.org/packages/nasuhturkmen/nt-sso">
         <img src="https://img.shields.io/github/license/open-admin-org/open-admin.svg?style=flat-square&color=brightgreen" alt="Packagist">
     </a>
-    <a href="https://packagist.org/packages/open-admin-org/open-admin">
+    <a href="https://packagist.org/packages/nasuhturkmen/nt-sso">
         <img src="https://img.shields.io/packagist/dt/open-admin-org/open-admin.svg?style=flat-square" alt="Total Downloads">
     </a>
-    <a href="https://github.com/open-admin-org/open-admin">
+    <a href="https://github.com/nasuhturkmen/nt-sso">
         <img src="https://img.shields.io/badge/Awesome-Laravel-brightgreen.svg?style=flat-square" alt="Awesome Laravel">
     </a>
 </div>
