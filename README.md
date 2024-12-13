@@ -91,29 +91,9 @@ More coming soon
 | [redis-manager](https://github.com/open-admin-org/redis-manager) | Redis manager for open-admin             |~1.0.20 |
 
 
-<!--
-| [backup](https://github.com/open-admin-extensions/backup) | An admin interface for managing backups          |~1.5 |
-| [wangEditor](https://github.com/open-admin-extensions/wangEditor) | A rich text editor based on [wangeditor](http://www.wangeditor.com/)         |~1.6 |
-| [summernote](https://github.com/open-admin-extensions/summernote) | A rich text editor based on [summernote](https://summernote.org/)          |~1.6 |
-| [simplemde](https://github.com/open-admin-extensions/simplemde) | A markdown editor based on [simplemde](https://github.com/sparksuite/simplemde-markdown-editor)          |~1.6 |
-| [php-editor](https://github.com/open-admin-extensions/php-editor) <br/> [python-editor](https://github.com/open-admin-extensions/python-editor) <br/> [js-editor](https://github.com/open-admin-extensions/js-editor)<br/> [css-editor](https://github.com/open-admin-extensions/css-editor)<br/> [clike-editor](https://github.com/open-admin-extensions/clike-editor)| Several programing language editor extensions based on code-mirror          |~1.6 |
-| [json-editor](https://github.com/open-admin-extensions/json-editor) | JSON Editor for Open-admin          |~1.6 |
-| [composer-viewer](https://github.com/open-admin-extensions/composer-viewer) | A web interface of composer packages in laravel.          |~1.6 |
-| [data-table](https://github.com/open-admin-extensions/data-table) | Advanced table widget for open-admin |~1.6 |
-| [watermark](https://github.com/open-admin-extensions/watermark) | Text watermark for open-admin |~1.6 |
-| [google-authenticator](https://github.com/ylic/open-admin-google-authenticator) | Google authenticator |~1.6 |
--->
-
-## Contribute?
- we are looking for active contributors:
- - testing
- - extension development
- - translating documentation
- - financing
-
 Other
 ------------
-`open-admin` based on the following plugins or services:
+`nt-sso` based on the following plugins or services:
 
 + [Laravel](https://laravel.com/)
 + [Axios](https://github.com/axios/axios)
@@ -133,4 +113,4 @@ Other
 
 License
 ------------
-`open-admin` is licensed under [The MIT License (MIT)](LICENSE).
+`nt-sso` is licensed under [The MIT License (MIT)](LICENSE).
