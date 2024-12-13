@@ -28,11 +28,6 @@
     </a>
 </div>
 
-<p align="center">
-    Forked from <a href="https://github.com/z-song/laravel-admin">Laravel-admin</a> Much thanks to Z-song for all the effort & great setup!
-</p>
-
-
 Requirements
 ------------
  - PHP >= 7.3.0
